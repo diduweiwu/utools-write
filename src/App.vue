@@ -5,7 +5,7 @@
     <NInput type="textarea" v-model:value="inputText"
             show-count
             round
-            :autosize="{minRows:15,maxRows:25}"
+            rows="20"
             maxlength="102400"
             autofocus
             placeholder="随意输入文字"></NInput>
