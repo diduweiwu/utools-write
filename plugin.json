@@ -1,0 +1,19 @@
+{
+  "main": "index.html",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "simple-text-writer",
+      "explain": "快速高效的记录信息",
+      "cmds": [
+        "写",
+        "记录",
+        "快速",
+        "文本",
+        "txt",
+        "quick",
+        "write"
+      ]
+    }
+  ]
+}
