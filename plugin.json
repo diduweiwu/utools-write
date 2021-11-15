@@ -6,6 +6,7 @@
       "code": "simple-text-writer",
       "explain": "快速高效的记录信息",
       "cmds": [
+        "q",
         "写",
         "记录",
         "快速",
